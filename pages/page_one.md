@@ -1,16 +1,11 @@
 # Page one
 
-## This is the headline of your first page
+## Advantages of Open Source
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
+An obvious advantage of open source software, besides being free, is that anyone has access. It allows everyone to participate or use the given software and might even promote learning as you can read and modify code. This also means the ability to modify the software and fit it to your own needs. This level of access might promote more participation and likely foster a community around said project. This often means a lot of community support, with translations, forum answers and a general big collective knowledge on the project. Resulting in an even wider available software and it could potentially mean better support than what you would get from a support team behind a closed-source project.
 
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
+Open source allows you to see exactly what the code does and thus provides total transparency. This transparency goes hand in hand with another advantage, namely security. Open source software has multiple people reviewing it, therefore being more likely to catch any vulnerabilities. This at least goes for larger open source software, as some proprietary products might have a bigger security team [(Akça, 2026)](#bibliography).
 
-- one item
-- another item
-
-### A smaller headline
-
-You can also add images from the assets folder:
-
-![The beach at Skagen](./assets/images/skagen.jpg)
+### Bibliography
+Akça, Ö. (2026, March 2). What is open source? Advantages, disadvantages, and the best developer tools. refine.dev. 
+https://refine.dev/blog/open-source-advantages-disadvantages/
