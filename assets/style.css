@@ -20,9 +20,9 @@
 
 body {
   font-family: var(--projectFont);
-  padding: 0;
   margin: 0;
   font-weight: 300;
+  line-height: 1.5;
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
@@ -191,6 +191,10 @@ footer {
 }
 
 /* markdown content */
+
+main.defaultPageMargin {
+  margin-top: 3rem;
+}
 
 /* markdown cannot add classes, so the first paragraph after a headline gets the light style this way */
 main h2 + p {

@@ -6,6 +6,8 @@ An obvious advantage of open source software, besides being free, is that anyone
 
 Open source allows you to see exactly what the code does and thus provides total transparency. This transparency goes hand in hand with another advantage, namely security. Open source software has multiple people reviewing it, therefore being more likely to catch any vulnerabilities. This at least goes for larger open source software, as some proprietary products might have a bigger security team [(Akça, 2026)](#bibliography).
 
+</br>
+
 ### Bibliography
 Akça, Ö. (2026, March 2). What is open source? Advantages, disadvantages, and the best developer tools. refine.dev. 
 https://refine.dev/blog/open-source-advantages-disadvantages/

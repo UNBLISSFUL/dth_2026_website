@@ -8,6 +8,8 @@ An example of a former open source project that chose to change to closed-source
 
 As projects may become unmanageable, support is not always guaranteed either where most closed-source products likely provide support in one way or another. Additionally, using and modifying open source projects might pose a legal risk concerning the understanding of licensing terms.
 
+</br>
+
 ### Bibliography
 Carter, A. (2026, May 25). XZ Backdoor: The full story in one place. daily.dev. https://daily.dev/blog/xz-backdoor-the-full-story-in-one-place/ 
 
