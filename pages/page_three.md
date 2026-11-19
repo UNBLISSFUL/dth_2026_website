@@ -30,7 +30,7 @@ Frankly, it’s quite hard to understand what exactly licenses allow and don’t
 
 </br>
 
-### Bibliography
+### References
 Penpot. (n.d.). About us | Read about the team behind Penpot. Retrieved November 11, 2026, from https://penpot.app/about 
 
 Kaleidos. (n.d.). Kaleidos - beautiful tech and beautiful values. Retrieved November 13, 2026, from https://www.kaleidos.net/ 
