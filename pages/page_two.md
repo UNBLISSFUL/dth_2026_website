@@ -10,7 +10,7 @@ As projects may become unmanageable, support is not always guaranteed either whe
 
 </br>
 
-### Bibliography
+### References
 Carter, A. (2026, May 25). XZ Backdoor: The full story in one place. daily.dev. https://daily.dev/blog/xz-backdoor-the-full-story-in-one-place/ 
 
 Ghosh, D. (2026, July 29). 3 popular apps that ditched open source (and the free tools that replaced them). How-To Geek. https://www.howtogeek.com/these-free-open-source-apps-turned-closed-source/
