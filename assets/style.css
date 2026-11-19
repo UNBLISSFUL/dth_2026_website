@@ -72,6 +72,11 @@ h4 {
   cursor: pointer;
 }
 
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
+
 /* hero banner */
 
 #pageHero {
@@ -241,3 +246,5 @@ main img {
 }
 
 #page_two h2 { color: var(--red); }
+
+
