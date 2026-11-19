@@ -8,6 +8,6 @@ Open source allows you to see exactly what the code does and thus provides total
 
 </br>
 
-### Bibliography
+### References
 Akça, Ö. (2026, March 2). What is open source? Advantages, disadvantages, and the best developer tools. refine.dev. 
 https://refine.dev/blog/open-source-advantages-disadvantages/
